@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data/Models
+models/
