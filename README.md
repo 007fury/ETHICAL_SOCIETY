@@ -20,21 +20,7 @@ The model ensures fairness, inclusivity, and transparency, supporting societal b
 - **File**: `STARK Data set for Assignment.xlsx`
 - Contains demographic and skill-related attributes used to compute resilience and contribution scores.
 
-## 📂 Structure
-```
-ethical-society-simulation/
-├─ README.md
-├─ requirements.txt
-├─ notebooks/
-│  └─ CT7204_4415500_3.ipynb
-├─ data/raw/
-│  └─ STARK Data set for Assignment.xlsx
-├─ reports/
-│  └─ figures/   # 8 auto-exported figures
-├─ proofs/
-│  └─ CT7204_4415500_1.docx
-└─ docs/
-```
+
 
 ## ▶️ How to Run
 ```bash
